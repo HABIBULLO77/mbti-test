@@ -1,0 +1,673 @@
+[
+    {
+        "question": "When you plan to go out for a whole day, you will",
+        "choice_a": {
+            "value": "J",
+            "text": "Plan what to do and when to do it"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Go spontaneously"
+        }
+    },
+    {
+        "question": "You think of yourself as a",
+        "choice_a": {
+            "value": "P",
+            "text": "Rather spontaneous person"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Rather organized person"
+        }
+    },
+    {
+        "question": "If you were a teacher, you would prefer to teach",
+        "choice_a": {
+            "value": "S",
+            "text": "Courses based on facts"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "Courses involving theories"
+        }
+    },
+    {
+        "question": "You usually",
+        "choice_a": {
+            "value": "E",
+            "text": "Easily get along with others"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Are relatively quiet or reserved"
+        }
+    },
+    {
+        "question": "Generally speaking, you get along better with",
+        "choice_a": {
+            "value": "N",
+            "text": "Imaginative people"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "Realistic people"
+        }
+    },
+    {
+        "question": "Do you often let",
+        "choice_a": {
+            "value": "F",
+            "text": "Your emotions dominate your reason"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Your reason dominate your emotions"
+        }
+    },
+    {
+        "question": "When handling many things, you prefer",
+        "choice_a": {
+            "value": "P",
+            "text": "Acting on impulse"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Following a plan"
+        }
+    },
+    {
+        "question": "Are you",
+        "choice_a": {
+            "value": "E",
+            "text": "Easy to understand"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Difficult to understand"
+        }
+    },
+    {
+        "question": "Following a schedule",
+        "choice_a": {
+            "value": "J",
+            "text": "Suits your style"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Makes you feel constrained"
+        }
+    },
+    {
+        "question": "When you have a special task, you prefer",
+        "choice_a": {
+            "value": "J",
+            "text": "Carefully organizing a plan beforehand"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Figuring out what to do as you go"
+        }
+    },
+    {
+        "question": "In most cases, you choose",
+        "choice_a": {
+            "value": "P",
+            "text": "To go with the flow"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "To follow a schedule"
+        }
+    },
+    {
+        "question": "Most people would say you are",
+        "choice_a": {
+            "value": "I",
+            "text": "Someone who values personal privacy"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "Very open and straightforward"
+        }
+    },
+    {
+        "question": "You’d rather be seen as",
+        "choice_a": {
+            "value": "S",
+            "text": "A pragmatic person"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "A clever person"
+        }
+    },
+    {
+        "question": "In a large group of people, you usually",
+        "choice_a": {
+            "value": "E",
+            "text": "Introduce everyone to each other"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Get introduced by others"
+        }
+    },
+    {
+        "question": "You tend to befriend people who are",
+        "choice_a": {
+            "value": "N",
+            "text": "Full of new ideas"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "Down-to-earth"
+        }
+    },
+    {
+        "question": "You tend to",
+        "choice_a": {
+            "value": "F",
+            "text": "Value feelings more than logic"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Value logic more than feelings"
+        }
+    },
+    {
+        "question": "You prefer",
+        "choice_a": {
+            "value": "P",
+            "text": "Observing how things progress before planning"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Planning well in advance"
+        }
+    },
+    {
+        "question": "You enjoy spending a lot of time",
+        "choice_a": {
+            "value": "I",
+            "text": "Alone"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "With others"
+        }
+    },
+    {
+        "question": "Being with many people",
+        "choice_a": {
+            "value": "E",
+            "text": "Energizes you"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Often drains you"
+        }
+    },
+    {
+        "question": "You prefer",
+        "choice_a": {
+            "value": "J",
+            "text": "Organizing appointments and social events well in advance"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Being free to do whatever is fun at the moment"
+        }
+    },
+    {
+        "question": "When planning a trip, you prefer",
+        "choice_a": {
+            "value": "P",
+            "text": "Going with the flow most of the time"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Knowing what to do on most days in advance"
+        }
+    },
+    {
+        "question": "At social gatherings, you",
+        "choice_a": {
+            "value": "I",
+            "text": "Sometimes feel bored"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "Often enjoy yourself"
+        }
+    },
+    {
+        "question": "You usually",
+        "choice_a": {
+            "value": "E",
+            "text": "Find it easy to become familiar with others"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Tend to keep to yourself"
+        }
+    },
+    {
+        "question": "What kind of people attract you more?",
+        "choice_a": {
+            "value": "N",
+            "text": "Quick-witted and highly intelligent individuals"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "Pragmatic and knowledgeable individuals"
+        }
+    },
+    {
+        "question": "In your daily work, you prefer",
+        "choice_a": {
+            "value": "P",
+            "text": "Dealing with urgent and fast-paced situations"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Planning ahead to avoid working under pressure"
+        }
+    },
+    {
+        "question": "You think most people generally",
+        "choice_a": {
+            "value": "I",
+            "text": "Take a long time to get to know you"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "Get to know you quickly"
+        }
+    },
+    {
+        "question": "When completing a large project within a week, you prefer",
+        "choice_a": {
+            "value": "J",
+            "text": "Listing out all the tasks in order at the start"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Starting immediately and figuring things out as you go"
+        }
+    },
+    {
+        "question": "At social events, you often feel",
+        "choice_a": {
+            "value": "I",
+            "text": "It's hard to start or keep conversations with some people"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "You can talk easily with most people"
+        }
+    },
+    {
+        "question": "When doing things that many people do, you prefer",
+        "choice_a": {
+            "value": "S",
+            "text": "Using methods generally recognized as effective"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "Coming up with your own ideas"
+        }
+    },
+    {
+        "question": "Can new friends easily identify your interests?",
+        "choice_a": {
+            "value": "E",
+            "text": "Yes, almost immediately"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Only after truly getting to know you"
+        }
+    },
+    {
+        "question": "You tend to prefer school subjects that",
+        "choice_a": {
+            "value": "N",
+            "text": "Teach concepts and principles"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "Teach facts and data"
+        }
+    },
+    {
+        "question": "Which would be higher praise or recognition for you?",
+        "choice_a": {
+            "value": "F",
+            "text": "Being consistently empathetic"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Being consistently logical"
+        }
+    },
+    {
+        "question": "You think following a schedule",
+        "choice_a": {
+            "value": "P",
+            "text": "Is sometimes necessary but generally not something you enjoy"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Is mostly helpful and something you enjoy"
+        }
+    },
+    {
+        "question": "When in a group of people, you usually",
+        "choice_a": {
+            "value": "I",
+            "text": "Talk with a few people you’re familiar with"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "Engage in conversation with everyone"
+        }
+    },
+    {
+        "question": "At social gatherings, you tend to",
+        "choice_a": {
+            "value": "E",
+            "text": "Be one of the more talkative people"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Let others do most of the talking"
+        }
+    },
+    {
+        "question": "Making a checklist of things to complete over the weekend",
+        "choice_a": {
+            "value": "J",
+            "text": "Sounds appealing to you"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Doesn’t excite you much"
+        }
+    },
+    {
+        "question": "Which would be higher praise?",
+        "choice_a": {
+            "value": "T",
+            "text": "Being competent"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "Being compassionate"
+        }
+    },
+    {
+        "question": "You typically prefer to",
+        "choice_a": {
+            "value": "J",
+            "text": "Plan your social appointments in advance"
+        },
+        "choice_b": {
+            "value": "P",
+            "text": "Do things spontaneously"
+        }
+    },
+    {
+        "question": "When completing a big project, you tend to",
+        "choice_a": {
+            "value": "P",
+            "text": "Figure out what to do as you work"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Break the work into steps first"
+        }
+    },
+    {
+        "question": "Can you have long conversations with others?",
+        "choice_a": {
+            "value": "I",
+            "text": "Only with people who share your interests"
+        },
+        "choice_b": {
+            "value": "E",
+            "text": "With almost anyone"
+        }
+    },
+    {
+        "question": "When working, you prefer to",
+        "choice_a": {
+            "value": "S",
+            "text": "Follow proven effective methods"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "Try out your own unique ideas"
+        }
+    },
+    {
+        "question": "When reading for fun, you prefer",
+        "choice_a": {
+            "value": "N",
+            "text": "Unique or innovative expressions"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "Direct and straightforward writing"
+        }
+    },
+    {
+        "question": "What kind of boss (or teacher) would you prefer?",
+        "choice_a": {
+            "value": "F",
+            "text": "Kind-hearted but often inconsistent"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Critical but always logical"
+        }
+    },
+    {
+        "question": "When doing something, you usually",
+        "choice_a": {
+            "value": "P",
+            "text": "Act based on how you feel that day"
+        },
+        "choice_b": {
+            "value": "J",
+            "text": "Follow a pre-made schedule"
+        }
+    },
+    {
+        "question": "Do you",
+        "choice_a": {
+            "value": "E",
+            "text": "Talk comfortably with anyone as needed"
+        },
+        "choice_b": {
+            "value": "I",
+            "text": "Only speak openly with certain people or in certain situations"
+        }
+    },
+    {
+        "question": "When making decisions, you consider it more important to",
+        "choice_a": {
+            "value": "T",
+            "text": "Base them on facts"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "Take others' feelings and opinions into account"
+        }
+    },
+    {
+        "question": "When choosing between words, you prefer",
+        "choice_a": {
+            "value": "N",
+            "text": "Imaginary concepts"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "Realistic ideas"
+        }
+    },
+    {
+        "question": "When selecting words, you prefer",
+        "choice_a": {
+            "value": "F",
+            "text": "Kindness and generosity"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Strong willpower"
+        }
+    },
+    {
+        "question": "When choosing between words, you prefer",
+        "choice_a": {
+            "value": "T",
+            "text": "Fairness"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "Compassion"
+        }
+    },
+    {
+        "question": "When choosing between words, you prefer",
+        "choice_a": {
+            "value": "S",
+            "text": "Creating something"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "Designing something"
+        }
+    },
+    {
+        "question": "When choosing between words, you prefer",
+        "choice_a": {
+            "value": "N",
+            "text": "Possibilities"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "Certainties"
+        }
+    },
+    {
+        "question": "When choosing between words, you prefer",
+        "choice_a": {
+            "value": "F",
+            "text": "Gentleness"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Strength"
+        }
+    },
+    {
+        "question": "When choosing between words, you prefer",
+        "choice_a": {
+            "value": "T",
+            "text": "Practicality"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "Sentimentality"
+        }
+    },
+    {
+        "question": "When choosing between words, you prefer",
+        "choice_a": {
+            "value": "S",
+            "text": "Manufacturing"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "Creating"
+        }
+    },
+    {
+        "question": "When choosing between words, you prefer",
+        "choice_a": {
+            "value": "N",
+            "text": "Novelty"
+        },
+        "choice_b": {
+            "value": "S",
+            "text": "Familiarity"
+        }
+    },
+    {
+        "question": "When choosing between words, you prefer",
+        "choice_a": {
+            "value": "F",
+            "text": "Empathy"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Analysis"
+        }
+    },
+    {
+        "question": "When choosing between words, you prefer",
+        "choice_a": {
+            "value": "T",
+            "text": "Sticking to your beliefs"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "Kindness and affection"
+        }
+    },
+    {
+        "question": "When choosing between words, you prefer",
+        "choice_a": {
+            "value": "S",
+            "text": "Concrete"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "Abstract"
+        }
+    },
+    {
+        "question": "When choosing between words, you prefer",
+        "choice_a": {
+            "value": "F",
+            "text": "Wholeheartedly involved"
+        },
+        "choice_b": {
+            "value": "T",
+            "text": "Determined"
+        }
+    },
+    {
+        "question": "When choosing between words, you prefer",
+        "choice_a": {
+            "value": "T",
+            "text": "Capable"
+        },
+        "choice_b": {
+            "value": "F",
+            "text": "Benevolent"
+        }
+    },
+    {
+        "question": "When choosing between words, you prefer",
+        "choice_a": {
+            "value": "S",
+            "text": "Practical"
+        },
+        "choice_b": {
+            "value": "N",
+            "text": "Innovative"
+        }
+    }
+]
